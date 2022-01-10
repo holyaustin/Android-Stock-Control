@@ -1,5 +1,4 @@
-### Android-Stock-Control
-
+ 
 ## Android Stock Control System
 
 This  a stock control and inventory system implemented on Android studio. 
